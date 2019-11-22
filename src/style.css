@@ -1,0 +1,53 @@
+.input {
+    border: 3px solid #ae7000;
+}
+
+ul li {
+    margin: 10px 0px;
+    list-style: none;
+}
+
+.boss-text-enter {
+    opacity: 0;
+}
+
+.boss-text-enter-active {
+    opacity: 1;
+    transition: opacity 2000ms;
+}
+
+.boss-text-enter-done {
+    opacity: 1;
+}
+
+.boss-text-exit {
+    opacity: 1;
+}
+
+.boss-text-exit-active {
+    opacity: 0;
+    transition: opacity 2000ms;
+}
+
+.boss-text-exit-done {
+    opacity: 0;
+}
+
+.list_input {
+    width: 90%;
+    height: 50px;
+    margin: 50px auto;
+    position: relative;
+}
+
+
+
+
+
+
+
+
+
+
+
+
